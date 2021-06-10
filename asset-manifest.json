@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DetaCOE/static/css/main.97cb73a9.chunk.css",
+    "main.js": "/DetaCOE/static/js/main.7994fc95.chunk.js",
+    "main.js.map": "/DetaCOE/static/js/main.7994fc95.chunk.js.map",
+    "runtime-main.js": "/DetaCOE/static/js/runtime-main.955809d6.js",
+    "runtime-main.js.map": "/DetaCOE/static/js/runtime-main.955809d6.js.map",
+    "static/css/2.6b8508df.chunk.css": "/DetaCOE/static/css/2.6b8508df.chunk.css",
+    "static/js/2.5980c5e0.chunk.js": "/DetaCOE/static/js/2.5980c5e0.chunk.js",
+    "static/js/2.5980c5e0.chunk.js.map": "/DetaCOE/static/js/2.5980c5e0.chunk.js.map",
+    "index.html": "/DetaCOE/index.html",
+    "static/css/2.6b8508df.chunk.css.map": "/DetaCOE/static/css/2.6b8508df.chunk.css.map",
+    "static/css/main.97cb73a9.chunk.css.map": "/DetaCOE/static/css/main.97cb73a9.chunk.css.map",
+    "static/js/2.5980c5e0.chunk.js.LICENSE.txt": "/DetaCOE/static/js/2.5980c5e0.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/DetaCOE/static/media/DetaLogo.dfe13729.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.955809d6.js",
+    "static/css/2.6b8508df.chunk.css",
+    "static/js/2.5980c5e0.chunk.js",
+    "static/css/main.97cb73a9.chunk.css",
+    "static/js/main.7994fc95.chunk.js"
+  ]
+}
