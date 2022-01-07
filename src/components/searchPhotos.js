@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import Unsplash, { toJson } from "unsplash-js";
 const unsplash = new Unsplash ({
-    accessKey: "aRfbF0lPzvLwIKI08dt9o_0giduC9xyAXmsio15O-f0",
-    secret: "UbwYbQDyDF3ijte7AeLK5anGYKmJ5nif5MkU-1LpMbM"
+    accessKey: "",
+    secret: ""
 });
 
 export default function SearchPhotos() {
